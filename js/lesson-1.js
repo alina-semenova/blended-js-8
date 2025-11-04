@@ -137,7 +137,6 @@ fizzBuzz(15);
 
 // const url = "https://my-site.com/about";
 
-
 let num;
 do {
   num = prompt("Введіть число:");
@@ -147,7 +146,7 @@ do {
   num = Number(num);
 } while (num <= 100);
 
-Доп. 2
+// Доп.2
 
 function haveSimb(val) {
   console.log(
